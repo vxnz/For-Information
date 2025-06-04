@@ -55,7 +55,7 @@ def krcert():
 
 def main():
     temp = krcert()
-	print(temp)
+    print(temp)
 
 if __name__ == '__main__':
     main()
